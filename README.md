@@ -83,6 +83,10 @@ localStorageはクライアントのマウント後に読み込みます。
 | 請求詳細 | [04-invoice-detail.png](docs/screenshots/04-invoice-detail.png) |
 | 入金予定 | [05-schedule.png](docs/screenshots/05-schedule.png) |
 
+04はスマホ幅（390px）、それ以外はデスクトップ幅（1440px）で、公開URLを撮影しています。
+
+![消込候補](docs/screenshots/02-match-candidates.png)
+
 ## ローカル起動方法
 
 Node.js 20.9以上を使用してください。
